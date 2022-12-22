@@ -1,0 +1,10 @@
+.user_card {
+    margin: 20px auto;
+}
+
+.user_card img {
+    height: 200px;
+    width: full;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
